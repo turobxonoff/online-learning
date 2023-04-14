@@ -19,7 +19,7 @@ darkMode.addEventListener('click', () => {
 // Scroll Reveal 
 const sr = ScrollReveal({
     origin: 'top',
-    distance: '70px',
+    distance: '10px',
     duration: 1000,
     reset: true
 })
