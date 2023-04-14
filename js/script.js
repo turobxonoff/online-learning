@@ -25,7 +25,7 @@ const sr = ScrollReveal({
 })
 
 sr.reveal(" h1, .service p, .about p, .header-section__home p, .courses-item, .paragraph, .count .box, .about span, .service h3, .event-item, .share a",{
-  interval: 100,
+  interval: 120,
 });
 
 // Slide start
