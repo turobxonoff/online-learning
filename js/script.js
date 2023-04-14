@@ -19,13 +19,13 @@ darkMode.addEventListener('click', () => {
 // Scroll Reveal 
 const sr = ScrollReveal({
     origin: 'top',
-    distance: '30px',
-    duration: 800,
+    distance: '20px',
+    duration: 1000,
     reset: true
 })
 
-sr.reveal(" h1, .service p, .about p, .header-section__home p, .courses-item, .paragraph, .count .box, .about span, .service h3, .event-item, .blog-item h3, .blog-item span, .share a, .contact .box h2",{
-  interval: 200,
+sr.reveal(" h1, .service p, .about p, .header-section__home p, .courses-item, .paragraph, .count .box, .about span, .service h3, .event-item, .share a",{
+  interval: 100,
 });
 
 // Slide start
